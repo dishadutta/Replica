@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Replica/static/css/main.b9ad240e.chunk.css",
+    "main.js": "/Replica/static/js/main.356f8fe0.chunk.js",
+    "main.js.map": "/Replica/static/js/main.356f8fe0.chunk.js.map",
+    "runtime-main.js": "/Replica/static/js/runtime-main.179024a2.js",
+    "runtime-main.js.map": "/Replica/static/js/runtime-main.179024a2.js.map",
+    "static/js/2.ce904cfd.chunk.js": "/Replica/static/js/2.ce904cfd.chunk.js",
+    "static/js/2.ce904cfd.chunk.js.map": "/Replica/static/js/2.ce904cfd.chunk.js.map",
+    "index.html": "/Replica/index.html",
+    "precache-manifest.fa3b4cfa7f043f93b5f443aceb3dd971.js": "/Replica/precache-manifest.fa3b4cfa7f043f93b5f443aceb3dd971.js",
+    "service-worker.js": "/Replica/service-worker.js",
+    "static/css/main.b9ad240e.chunk.css.map": "/Replica/static/css/main.b9ad240e.chunk.css.map",
+    "static/js/2.ce904cfd.chunk.js.LICENSE.txt": "/Replica/static/js/2.ce904cfd.chunk.js.LICENSE.txt",
+    "static/media/call.PNG": "/Replica/static/media/call.024804ca.PNG",
+    "static/media/chat.PNG": "/Replica/static/media/chat.6751a2a1.PNG",
+    "static/media/logo.svg": "/Replica/static/media/logo.5d5d9eef.svg",
+    "static/media/sticker2.PNG": "/Replica/static/media/sticker2.a7227ec6.PNG",
+    "static/media/stickers.PNG": "/Replica/static/media/stickers.f3ffae56.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179024a2.js",
+    "static/js/2.ce904cfd.chunk.js",
+    "static/css/main.b9ad240e.chunk.css",
+    "static/js/main.356f8fe0.chunk.js"
+  ]
+}
